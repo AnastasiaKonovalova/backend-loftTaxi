@@ -12,6 +12,6 @@ deploy:
     secure: $bloft
   strategy: git
   app:
-    master: portfolio-one
+    master: lofttaxi
   run:
     - restart
